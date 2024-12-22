@@ -1,0 +1,3 @@
+[submodule "web/crimewatch"]
+	path = web/crimewatch
+	url = git@github.com:shaunemslie/crimewatch.git
